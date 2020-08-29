@@ -63,7 +63,7 @@
 
 
 # Yuklab olish
-Ilovani o'rnatib, ishlatish uchun apk faylni yuklab oling [KCAL CAL APP](images/app-debug)
+Ilovani o'rnatib, ishlatish uchun apk faylni yuklab oling [KCAL CAL APP](images/app-debug.apk)
 
 ## Dasturchi
 
