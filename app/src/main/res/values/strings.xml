@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">KKAL CAL APP</string>
+    <string name="you_got">Qolgan</string>
+
+    <string name="material_calendar_monday">Du</string>
+    <string name="material_calendar_tuesday">Se</string>
+    <string name="material_calendar_wednesday">Cho</string>
+    <string name="material_calendar_thursday">Pay</string>
+    <string name="material_calendar_friday">Ju</string>
+    <string name="material_calendar_saturday">Shan</string>
+    <string name="material_calendar_sunday">Ya</string>
+
+    <array name="material_calendar_months_array">
+        <item>Yanvar</item>
+        <item>Fevral</item>
+        <item>Mart</item>
+        <item>April</item>
+        <item>May</item>
+        <item>Iyun</item>
+        <item>Iyul</item>
+        <item>Avgust</item>
+        <item>Sentabr</item>
+        <item>Oktabr</item>
+        <item>Noyabr</item>
+        <item>Dekabr</item>
+    </array>
+
+    <string name="material_calendar_today_button">Bugun</string>
+    <string name="material_calendar_positive_button">OK</string>
+    <string name="material_calendar_negative_button">Qaytish</string>
+    <string name="you_lost">Sarflangan</string>
+    <string name="empty">___</string>
+    <string name="cal">kkal</string>
+    <string name="input_new_food">Yangi ovqat kiriting</string>
+    <string name="choose_from_list">Ro`yxatdan tanlash</string>
+    <string name="exercise">Mashqlar :</string>
+    <string name="lost_calories_10mins">Yo`qotilgan kaloriyalar (10 daqiqa):</string>
+    <string name="calories_per_100g">100g uchun kaloriya:</string>
+    <string name="history">Tarix</string>
+    <string name="choose_date">Sanani belgilash</string>
+
+    <string name="cal_today">kkal kuniga</string>
+    <string name="cal_in_a_day">kkal kuniga</string>
+    <string name="you_now_get">Qabul qilish kerak</string>
+    <string name="kg">Kg</string>
+    <string name="enter_the_weight_you_hope">Siz umid qilgan vaznni kiriting</string>
+    <string name="move">Sarflash</string>
+    <string name="eat">Qabul qilish</string>
+    <string name="record">Qayd etish</string>
+    <string name="_1_calculate">1. hisoblash</string>
+    <string name="_2_add_to_histry">2. arxivlash</string>
+
+
+
+</resources>
